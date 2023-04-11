@@ -3,7 +3,6 @@
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Explorar o conceito de Padrões de Projeto na prática.</p>
 
-
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
@@ -17,7 +16,6 @@
     <li><strong>Swagger UI</strong></li>
 </ul>
 
-
 <h2>🛑 Dependency Swagger</h2>
 
 <strong>Versão a partir da 3.0 Spring Boot</strong>
@@ -29,7 +27,6 @@
 	<version>2.0.2</version>
 </dependency>
 ```
-
 
 <strong>Versões anteriores a 3.0 Spring Boot</strong>
 
